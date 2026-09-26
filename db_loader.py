@@ -4,8 +4,8 @@ import psycopg2
 # 1. Database Connection Info
 DB_HOST = "localhost"
 DB_NAME = "bookstore_db"
-DB_USER = "postgres"           
-DB_PASS = "kausar2116" 
+DB_USER = "-----"           
+DB_PASS = "-----" 
 DB_PORT = "5432"
 
 try:
