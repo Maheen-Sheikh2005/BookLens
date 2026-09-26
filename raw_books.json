@@ -1,0 +1,3621 @@
+[
+    {
+        "Title": "It's Only the Himalayas",
+        "Price": "Â£45.17",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond",
+        "Price": "Â£49.43",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Four"
+    },
+    {
+        "Title": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "Price": "Â£48.87",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "Price": "Â£36.94",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Under the Tuscan Sun",
+        "Price": "Â£37.33",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A Summer In Europe",
+        "Price": "Â£44.34",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Great Railway Bazaar",
+        "Price": "Â£30.54",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "One"
+    },
+    {
+        "Title": "A Year in Provence (Provence #1)",
+        "Price": "Â£56.88",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "Price": "Â£23.21",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "One"
+    },
+    {
+        "Title": "Neither Here nor There: Travels in Europe",
+        "Price": "Â£38.95",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Three"
+    },
+    {
+        "Title": "1,000 Places to See Before You Die",
+        "Price": "Â£26.08",
+        "Stock": "In stock",
+        "Category": "Travel",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Sharp Objects",
+        "Price": "Â£47.82",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Four"
+    },
+    {
+        "Title": "In a Dark, Dark Wood",
+        "Price": "Â£19.63",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Past Never Ends",
+        "Price": "Â£56.50",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Four"
+    },
+    {
+        "Title": "A Murder in Time",
+        "Price": "Â£16.64",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "Price": "Â£44.10",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Last Mile (Amos Decker #2)",
+        "Price": "Â£54.21",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Two"
+    },
+    {
+        "Title": "That Darkness (Gardiner and Renner #1)",
+        "Price": "Â£13.92",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "One"
+    },
+    {
+        "Title": "Tastes Like Fear (DI Marnie Rome #3)",
+        "Price": "Â£10.69",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "One"
+    },
+    {
+        "Title": "A Time of Torment (Charlie Parker #14)",
+        "Price": "Â£48.35",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Five"
+    },
+    {
+        "Title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "Price": "Â£16.73",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Poisonous (Max Revere Novels #3)",
+        "Price": "Â£26.80",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "Price": "Â£54.36",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Most Wanted",
+        "Price": "Â£35.28",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Hide Away (Eve Duncan #20)",
+        "Price": "Â£11.84",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "One"
+    },
+    {
+        "Title": "Boar Island (Anna Pigeon #19)",
+        "Price": "Â£59.48",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Widow",
+        "Price": "Â£27.26",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Playing with Fire",
+        "Price": "Â£13.71",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Three"
+    },
+    {
+        "Title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "Price": "Â£25.37",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "Price": "Â£52.30",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "Price": "Â£20.89",
+        "Stock": "In stock",
+        "Category": "Mystery",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Tipping the Velvet",
+        "Price": "Â£53.74",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "Price": "Â£29.69",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A Flight of Arrows (The Pathfinders #2)",
+        "Price": "Â£55.53",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The House by the Lake",
+        "Price": "Â£36.95",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Mrs. Houdini",
+        "Price": "Â£30.25",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Marriage of Opposites",
+        "Price": "Â£28.08",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Glory over Everything: Beyond The Kitchen House",
+        "Price": "Â£45.84",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Love, Lies and Spies",
+        "Price": "Â£20.55",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A Paris Apartment",
+        "Price": "Â£39.01",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Lilac Girls",
+        "Price": "Â£17.28",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Constant Princess (The Tudor Court #1)",
+        "Price": "Â£16.62",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Invention of Wings",
+        "Price": "Â£37.34",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "World Without End (The Pillars of the Earth #2)",
+        "Price": "Â£32.97",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Passion of Dolssa",
+        "Price": "Â£28.32",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Girl With a Pearl Earring",
+        "Price": "Â£26.77",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Voyager (Outlander #3)",
+        "Price": "Â£21.07",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Red Tent",
+        "Price": "Â£35.66",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Last Painting of Sara de Vos",
+        "Price": "Â£55.55",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Guernsey Literary and Potato Peel Pie Society",
+        "Price": "Â£49.53",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Girl in the Blue Coat",
+        "Price": "Â£46.83",
+        "Stock": "In stock",
+        "Category": "Historical Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "Price": "Â£52.29",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "Price": "Â£16.28",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "One"
+    },
+    {
+        "Title": "This One Summer",
+        "Price": "Â£19.49",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Nameless City (The Nameless City #1)",
+        "Price": "Â£38.16",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "Price": "Â£51.04",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "Price": "Â£50.40",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "Price": "Â£13.61",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Pop Gun War, Volume 1: Gift",
+        "Price": "Â£18.97",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "One"
+    },
+    {
+        "Title": "Patience",
+        "Price": "Â£10.16",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "Price": "Â£15.44",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "Price": "Â£48.41",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "One"
+    },
+    {
+        "Title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "Price": "Â£46.91",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "Price": "Â£45.61",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "Price": "Â£19.92",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Two"
+    },
+    {
+        "Title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+        "Price": "Â£29.17",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Two"
+    },
+    {
+        "Title": "I am a Hero Omnibus Volume 1",
+        "Price": "Â£54.63",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Giant Days, Vol. 2 (Giant Days #5-8)",
+        "Price": "Â£22.11",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Danganronpa Volume 1",
+        "Price": "Â£51.99",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Codename Baboushka, Volume 1: The Conclave of Death",
+        "Price": "Â£36.72",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Camp Midnight",
+        "Price": "Â£17.08",
+        "Stock": "In stock",
+        "Category": "Sequential Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Secret Garden",
+        "Price": "Â£15.08",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Metamorphosis",
+        "Price": "Â£28.58",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Pilgrim's Progress",
+        "Price": "Â£50.26",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+        "Price": "Â£14.82",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Little Women (Little Women #1)",
+        "Price": "Â£28.07",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Gone with the Wind",
+        "Price": "Â£32.49",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Candide",
+        "Price": "Â£58.63",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Animal Farm",
+        "Price": "Â£57.22",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Wuthering Heights",
+        "Price": "Â£17.73",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Picture of Dorian Gray",
+        "Price": "Â£29.70",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+        "Price": "Â£26.78",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Beowulf",
+        "Price": "Â£38.35",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "And Then There Were None",
+        "Price": "Â£35.01",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Story of Hong Gildong",
+        "Price": "Â£43.19",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Little Prince",
+        "Price": "Â£45.42",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Sense and Sensibility",
+        "Price": "Â£37.46",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "One"
+    },
+    {
+        "Title": "Of Mice and Men",
+        "Price": "Â£47.11",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Emma",
+        "Price": "Â£32.93",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "Price": "Â£55.53",
+        "Stock": "In stock",
+        "Category": "Classics",
+        "Rating": "One"
+    },
+    {
+        "Title": "Sophie's World",
+        "Price": "Â£15.94",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Death of Humanity: and the Case for Life",
+        "Price": "Â£58.11",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Stranger",
+        "Price": "Â£17.44",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Proofs of God: Classical Arguments from Tertullian to Barth",
+        "Price": "Â£54.21",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Kierkegaard: A Christian Missionary to Christians",
+        "Price": "Â£47.13",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "One"
+    },
+    {
+        "Title": "At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+        "Price": "Â£29.93",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Critique of Pure Reason",
+        "Price": "Â£20.75",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Run, Spot, Run: The Ethics of Keeping Pets",
+        "Price": "Â£20.02",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Nicomachean Ethics",
+        "Price": "Â£36.34",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Meditations",
+        "Price": "Â£25.89",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Beyond Good and Evil",
+        "Price": "Â£43.38",
+        "Stock": "In stock",
+        "Category": "Philosophy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Chase Me (Paris Nights #2)",
+        "Price": "Â£25.27",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Black Dust",
+        "Price": "Â£34.53",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Her Backup Boyfriend (The Sorensen Family #1)",
+        "Price": "Â£33.97",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "One"
+    },
+    {
+        "Title": "First and First (Five Boroughs #3)",
+        "Price": "Â£15.97",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Fifty Shades Darker (Fifty Shades #2)",
+        "Price": "Â£21.96",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Wedding Dress",
+        "Price": "Â£24.12",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "One"
+    },
+    {
+        "Title": "Suddenly in Love (Lake Haven #1)",
+        "Price": "Â£55.99",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Something More Than This",
+        "Price": "Â£16.24",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Doing It Over (Most Likely To #1)",
+        "Price": "Â£35.61",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Wedding Pact (The O'Malleys #2)",
+        "Price": "Â£32.61",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Hold Your Breath (Search and Rescue #1)",
+        "Price": "Â£28.82",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "One"
+    },
+    {
+        "Title": "Dirty (Dive Bar #1)",
+        "Price": "Â£40.83",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Take Me Home Tonight (Rock Star Romance #3)",
+        "Price": "Â£53.98",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Off the Hook (Fishing for Trouble #1)",
+        "Price": "Â£47.67",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A Gentleman's Position (Society of Gentlemen #3)",
+        "Price": "Â£14.75",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Sit, Stay, Love",
+        "Price": "Â£20.90",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A Girl's Guide to Moving On (New Beginnings #2)",
+        "Price": "Â£31.30",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Perfect Play (Play by Play #1)",
+        "Price": "Â£59.99",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Dark Lover (Black Dagger Brotherhood #1)",
+        "Price": "Â£12.87",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "One"
+    },
+    {
+        "Title": "Changing the Game (Play by Play #2)",
+        "Price": "Â£13.38",
+        "Stock": "In stock",
+        "Category": "Romance",
+        "Rating": "Three"
+    },
+    {
+        "Title": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
+        "Price": "Â£57.36",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Will You Won't You Want Me?",
+        "Price": "Â£13.86",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Keep Me Posted",
+        "Price": "Â£20.46",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Grey (Fifty Shades #4)",
+        "Price": "Â£48.49",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Meternity",
+        "Price": "Â£43.58",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Some Women",
+        "Price": "Â£13.73",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Shopaholic Ties the Knot (Shopaholic #3)",
+        "Price": "Â£48.39",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Can You Keep a Secret?",
+        "Price": "Â£21.94",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Twenties Girl",
+        "Price": "Â£42.80",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Undomestic Goddess",
+        "Price": "Â£45.75",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Nanny Diaries (Nanny #1)",
+        "Price": "Â£52.53",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Devil Wears Prada (The Devil Wears Prada #1)",
+        "Price": "Â£44.29",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Something Borrowed (Darcy & Rachel #1)",
+        "Price": "Â£48.96",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Something Blue (Darcy & Rachel #2)",
+        "Price": "Â£54.62",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "I've Got Your Number",
+        "Price": "Â£19.69",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Edge of Reason (Bridget Jones #2)",
+        "Price": "Â£19.18",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Bridget Jones's Diary (Bridget Jones #1)",
+        "Price": "Â£29.82",
+        "Stock": "In stock",
+        "Category": "Womens Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Soumission",
+        "Price": "Â£50.10",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Private Paris (Private #10)",
+        "Price": "Â£47.61",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "We Love You, Charlie Freeman",
+        "Price": "Â£50.27",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Thirst",
+        "Price": "Â£17.27",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Murder That Never Was (Forensic Instincts #5)",
+        "Price": "Â£54.11",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Tuesday Nights in 1980",
+        "Price": "Â£21.04",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Vacationers",
+        "Price": "Â£42.15",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Regional Office Is Under Attack!",
+        "Price": "Â£51.36",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Finders Keepers (Bill Hodges Trilogy #2)",
+        "Price": "Â£53.53",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Time Keeper",
+        "Price": "Â£27.88",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Testament of Mary",
+        "Price": "Â£52.67",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The First Hostage (J.B. Collins #2)",
+        "Price": "Â£25.85",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Take Me with You",
+        "Price": "Â£45.21",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Still Life with Bread Crumbs",
+        "Price": "Â£26.41",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Shtum",
+        "Price": "Â£55.84",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "My Name Is Lucy Barton",
+        "Price": "Â£41.56",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "My Mrs. Brown",
+        "Price": "Â£24.48",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "Price": "Â£28.90",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "I Am Pilgrim (Pilgrim #1)",
+        "Price": "Â£10.60",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Eligible (The Austen Project #4)",
+        "Price": "Â£27.09",
+        "Stock": "In stock",
+        "Category": "Fiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Birdsong: A Story in Pictures",
+        "Price": "Â£54.64",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Bear and the Piano",
+        "Price": "Â£36.89",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Secret of Dreadwillow Carse",
+        "Price": "Â£56.13",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "One"
+    },
+    {
+        "Title": "The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ",
+        "Price": "Â£58.08",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Little Red",
+        "Price": "Â£13.47",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Walt Disney's Alice in Wonderland",
+        "Price": "Â£12.96",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Twenty Yawns",
+        "Price": "Â£22.08",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Rain Fish",
+        "Price": "Â£23.57",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Once Was a Time",
+        "Price": "Â£18.28",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Luis Paints the World",
+        "Price": "Â£53.95",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Nap-a-Roo",
+        "Price": "Â£25.08",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Whale",
+        "Price": "Â£35.96",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+        "Price": "Â£52.87",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Raymie Nightingale",
+        "Price": "Â£34.41",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Playing from the Heart",
+        "Price": "Â£32.38",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "One"
+    },
+    {
+        "Title": "Maybe Something Beautiful: How Art Transformed a Neighborhood",
+        "Price": "Â£22.54",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Wild Robot",
+        "Price": "Â£56.07",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Thing About Jellyfish",
+        "Price": "Â£48.77",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Lonely Ones",
+        "Price": "Â£43.59",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Day the Crayons Came Home (Crayons)",
+        "Price": "Â£26.33",
+        "Stock": "In stock",
+        "Category": "Childrens",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+        "Price": "Â£37.97",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "Two"
+    },
+    {
+        "Title": "You Are What You Love: The Spiritual Power of Habit",
+        "Price": "Â£21.87",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "Four"
+    },
+    {
+        "Title": "God: The Most Unpleasant Character in All Fiction",
+        "Price": "Â£30.03",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Book of Mormon",
+        "Price": "Â£24.57",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+        "Price": "Â£27.62",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Bhagavad Gita",
+        "Price": "Â£57.49",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Choosing Our Religion: The Spiritual Lives of America's Nones",
+        "Price": "Â£28.42",
+        "Stock": "In stock",
+        "Category": "Religion",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+        "Price": "Â£40.30",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "Price": "Â£31.05",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Reasons to Stay Alive",
+        "Price": "Â£26.41",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "Price": "Â£23.11",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "Price": "Â£44.18",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "Price": "Â£31.12",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "Price": "Â£16.77",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "Price": "Â£37.13",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "Price": "Â£56.06",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "Price": "Â£41.83",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "Price": "Â£19.83",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "In the Country We Love: My Family Divided",
+        "Price": "Â£22.00",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+        "Price": "Â£54.35",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+        "Price": "Â£29.14",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Algorithms to Live By: The Computer Science of Human Decisions",
+        "Price": "Â£30.81",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "Price": "Â£43.54",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Omnivore's Dilemma: A Natural History of Four Meals",
+        "Price": "Â£38.21",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Genius of Birds",
+        "Price": "Â£17.24",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Artist's Way: A Spiritual Path to Higher Creativity",
+        "Price": "Â£38.49",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "So You've Been Publicly Shamed",
+        "Price": "Â£12.23",
+        "Stock": "In stock",
+        "Category": "Nonfiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Rip it Up and Start Again",
+        "Price": "Â£35.02",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "Price": "Â£57.25",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Three"
+    },
+    {
+        "Title": "How Music Works",
+        "Price": "Â£37.32",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Love Is a Mix Tape (Music #1)",
+        "Price": "Â£18.03",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "One"
+    },
+    {
+        "Title": "Please Kill Me: The Uncensored Oral History of Punk",
+        "Price": "Â£31.19",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+        "Price": "Â£45.05",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Chronicles, Vol. 1",
+        "Price": "Â£52.60",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Two"
+    },
+    {
+        "Title": "This Is Your Brain on Music: The Science of a Human Obsession",
+        "Price": "Â£38.40",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "One"
+    },
+    {
+        "Title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+        "Price": "Â£12.36",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Three"
+    },
+    {
+        "Title": "No One Here Gets Out Alive",
+        "Price": "Â£20.02",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Life",
+        "Price": "Â£31.58",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "Price": "Â£55.66",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Forever Rockers (The Rocker #12)",
+        "Price": "Â£28.80",
+        "Stock": "In stock",
+        "Category": "Music",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "Price": "Â£17.93",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "Price": "Â£22.60",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "Price": "Â£13.99",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "Price": "Â£22.50",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Aladdin and His Wonderful Lamp",
+        "Price": "Â£53.13",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Penny Maybe",
+        "Price": "Â£33.29",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Maude (1883-1993):She Grew Up with the country",
+        "Price": "Â£18.02",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "Price": "Â£20.59",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Soul Reader",
+        "Price": "Â£39.58",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Bossypants",
+        "Price": "Â£49.46",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A World of Flavor: Your Gluten Free Passport",
+        "Price": "Â£42.95",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "One"
+    },
+    {
+        "Title": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+        "Price": "Â£56.76",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Tracing Numbers on a Train",
+        "Price": "Â£41.60",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Thirteen Reasons Why",
+        "Price": "Â£52.72",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Secret (The Secret #1)",
+        "Price": "Â£27.37",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Psychopath Test: A Journey Through the Madness Industry",
+        "Price": "Â£36.00",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Kite Runner",
+        "Price": "Â£41.82",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Girl on the Train",
+        "Price": "Â£55.02",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Emerald Mystery",
+        "Price": "Â£23.15",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+        "Price": "Â£32.00",
+        "Stock": "In stock",
+        "Category": "Default",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "Price": "Â£37.59",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Join",
+        "Price": "Â£35.67",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+        "Price": "Â£43.30",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Project",
+        "Price": "Â£10.65",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Soft Apocalypse",
+        "Price": "Â£26.12",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Sleeping Giants (Themis Files #1)",
+        "Price": "Â£48.74",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Arena",
+        "Price": "Â£21.36",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Foundation (Foundation (Publication Order) #1)",
+        "Price": "Â£32.42",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+        "Price": "Â£10.92",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Ready Player One",
+        "Price": "Â£19.07",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+        "Price": "Â£33.26",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Dune (Dune #1)",
+        "Price": "Â£54.86",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+        "Price": "Â£51.48",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "One"
+    },
+    {
+        "Title": "Three Wishes (River of Time: California #1)",
+        "Price": "Â£44.18",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Last Girl (The Dominion Trilogy #1)",
+        "Price": "Â£36.26",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+        "Price": "Â£34.96",
+        "Stock": "In stock",
+        "Category": "Science Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Book of Basketball: The NBA According to The Sports Guy",
+        "Price": "Â£44.84",
+        "Stock": "In stock",
+        "Category": "Sports and Games",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Friday Night Lights: A Town, a Team, and a Dream",
+        "Price": "Â£51.22",
+        "Stock": "In stock",
+        "Category": "Sports and Games",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Sugar Rush (Offensive Line #2)",
+        "Price": "Â£24.42",
+        "Stock": "In stock",
+        "Category": "Sports and Games",
+        "Rating": "One"
+    },
+    {
+        "Title": "Settling the Score (The Summer Games #1)",
+        "Price": "Â£44.91",
+        "Stock": "In stock",
+        "Category": "Sports and Games",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Icing (Aces Hockey #2)",
+        "Price": "Â£40.44",
+        "Stock": "In stock",
+        "Category": "Sports and Games",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Torch Is Passed: A Harding Family Story",
+        "Price": "Â£19.09",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "Price": "Â£23.89",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Art Forger",
+        "Price": "Â£40.76",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Three"
+    },
+    {
+        "Title": "On a Midnight Clear",
+        "Price": "Â£14.07",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "Price": "Â£53.90",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Shobu Samurai, Project Aryoku (#3)",
+        "Price": "Â£29.06",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Modern Romance",
+        "Price": "Â£28.26",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The White Queen (The Cousins' War #1)",
+        "Price": "Â£25.91",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Song of Achilles",
+        "Price": "Â£37.40",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Immortal Life of Henrietta Lacks",
+        "Price": "Â£40.67",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Dovekeepers",
+        "Price": "Â£48.78",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "One"
+    },
+    {
+        "Title": "More Than Music (Chasing the Dream #1)",
+        "Price": "Â£37.61",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Code Name Verity (Code Name Verity #1)",
+        "Price": "Â£22.13",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Cell",
+        "Price": "Â£20.29",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Angels Walking (Angels Walking #1)",
+        "Price": "Â£34.20",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",
+        "Price": "Â£56.48",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A People's History of the United States",
+        "Price": "Â£40.79",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A Brush of Wings (Angels Walking #3)",
+        "Price": "Â£55.51",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "One"
+    },
+    {
+        "Title": "Rook",
+        "Price": "Â£37.86",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Midnight Watch: A Novel of the Titanic and the Californian",
+        "Price": "Â£26.20",
+        "Stock": "In stock",
+        "Category": "Add a comment",
+        "Rating": "One"
+    },
+    {
+        "Title": "Unicorn Tracks",
+        "Price": "Â£18.78",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "Price": "Â£25.02",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "Price": "Â£13.34",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Masks and Shadows",
+        "Price": "Â£56.40",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Crown of Midnight (Throne of Glass #2)",
+        "Price": "Â£43.29",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+        "Price": "Â£28.09",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+        "Price": "Â£52.37",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Throne of Glass (Throne of Glass #1)",
+        "Price": "Â£35.07",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Glittering Court (The Glittering Court #1)",
+        "Price": "Â£44.28",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Hollow City (Miss Peregrineâs Peculiar Children #2)",
+        "Price": "Â£42.98",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Star-Touched Queen",
+        "Price": "Â£46.02",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Hidden Oracle (The Trials of Apollo #1)",
+        "Price": "Â£52.26",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+        "Price": "Â£44.73",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Island of Dragons (Unwanteds #7)",
+        "Price": "Â£29.65",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "One"
+    },
+    {
+        "Title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+        "Price": "Â£37.51",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "City of Glass (The Mortal Instruments #3)",
+        "Price": "Â£56.02",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Searching for Meaning in Gailana",
+        "Price": "Â£38.73",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Star-Touched Queen",
+        "Price": "Â£32.30",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "A Shard of Ice (The Black Symphony Saga #1)",
+        "Price": "Â£56.63",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Three"
+    },
+    {
+        "Title": "King's Folly (The Kinsman Chronicles #1)",
+        "Price": "Â£39.61",
+        "Stock": "In stock",
+        "Category": "Fantasy",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Without Borders (Wanderlove #1)",
+        "Price": "Â£45.07",
+        "Stock": "In stock",
+        "Category": "New Adult",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Mistake (Off-Campus #2)",
+        "Price": "Â£43.29",
+        "Stock": "In stock",
+        "Category": "New Adult",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Matchmaker's Playbook (Wingmen Inc. #1)",
+        "Price": "Â£55.85",
+        "Stock": "In stock",
+        "Category": "New Adult",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Hook Up (Game On #1)",
+        "Price": "Â£36.29",
+        "Stock": "In stock",
+        "Category": "New Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Shameless",
+        "Price": "Â£58.35",
+        "Stock": "In stock",
+        "Category": "New Adult",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Off Sides (Off #1)",
+        "Price": "Â£39.45",
+        "Stock": "In stock",
+        "Category": "New Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Requiem Red",
+        "Price": "Â£22.65",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "One"
+    },
+    {
+        "Title": "Set Me Free",
+        "Price": "Â£17.46",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "Price": "Â£45.22",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Obsidian (Lux #1)",
+        "Price": "Â£14.86",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Burning",
+        "Price": "Â£28.81",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A Fierce and Subtle Poison",
+        "Price": "Â£28.13",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Scarlett Epstein Hates It Here",
+        "Price": "Â£43.55",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Nightingale, Sing",
+        "Price": "Â£38.28",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "One"
+    },
+    {
+        "Title": "Library of Souls (Miss Peregrineâs Peculiar Children #3)",
+        "Price": "Â£48.56",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Frostbite (Vampire Academy #2)",
+        "Price": "Â£29.99",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Wild Swans",
+        "Price": "Â£14.36",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Until Friday Night (The Field Party #1)",
+        "Price": "Â£46.31",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Two"
+    },
+    {
+        "Title": "This Is Where It Ends",
+        "Price": "Â£27.12",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Darkest Lie",
+        "Price": "Â£35.35",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "My Kind of Crazy",
+        "Price": "Â£40.36",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "One"
+    },
+    {
+        "Title": "Don't Get Caught",
+        "Price": "Â£55.35",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "One"
+    },
+    {
+        "Title": "Catching Jordan (Hundred Oaks)",
+        "Price": "Â£50.83",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+        "Price": "Â£58.14",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Epidemic (The Program 0.6)",
+        "Price": "Â£14.44",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Stars Above (The Lunar Chronicles #4.5)",
+        "Price": "Â£48.05",
+        "Stock": "In stock",
+        "Category": "Young Adult",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "Price": "Â£42.96",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+        "Price": "Â£57.36",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+        "Price": "Â£44.74",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
+        "Price": "Â£37.55",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+        "Price": "Â£55.91",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "One"
+    },
+    {
+        "Title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+        "Price": "Â£28.41",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Origin of Species",
+        "Price": "Â£10.01",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Grand Design",
+        "Price": "Â£13.76",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Peak: Secrets from the New Science of Expertise",
+        "Price": "Â£16.28",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "Price": "Â£13.03",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+        "Price": "Â£57.35",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+        "Price": "Â£25.83",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Seven Brief Lessons on Physics",
+        "Price": "Â£30.60",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Selfish Gene",
+        "Price": "Â£29.45",
+        "Stock": "In stock",
+        "Category": "Science",
+        "Rating": "One"
+    },
+    {
+        "Title": "A Light in the Attic",
+        "Price": "Â£51.77",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Black Maria",
+        "Price": "Â£52.15",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "One"
+    },
+    {
+        "Title": "Shakespeare's Sonnets",
+        "Price": "Â£20.66",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Olio",
+        "Price": "Â£23.88",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "One"
+    },
+    {
+        "Title": "You can't bury them all: Poems",
+        "Price": "Â£33.63",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Slow States of Collapse: Poems",
+        "Price": "Â£57.31",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Untitled Collection: Sabbath Poems 2014",
+        "Price": "Â£14.27",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Poems That Make Grown Women Cry",
+        "Price": "Â£14.19",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Night Sky with Exit Wounds",
+        "Price": "Â£41.05",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "One"
+    },
+    {
+        "Title": "salt.",
+        "Price": "Â£46.78",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+        "Price": "Â£50.89",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Out of Print: City Lights Spotlight No. 14",
+        "Price": "Â£53.64",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Les Fleurs du Mal",
+        "Price": "Â£29.04",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Howl and Other Poems",
+        "Price": "Â£40.45",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Leave This Song Behind: Teen Poetry at Its Best",
+        "Price": "Â£51.17",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+        "Price": "Â£15.42",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Crossover",
+        "Price": "Â£38.77",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Booked",
+        "Price": "Â£17.49",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Twenty Love Poems and a Song of Despair",
+        "Price": "Â£30.95",
+        "Stock": "In stock",
+        "Category": "Poetry",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Vampire Knight, Vol. 1 (Vampire Knight #1)",
+        "Price": "Â£15.40",
+        "Stock": "In stock",
+        "Category": "Paranormal",
+        "Rating": "One"
+    },
+    {
+        "Title": "Wall and Piece",
+        "Price": "Â£44.18",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Feathers: Displays of Brilliant Plumage",
+        "Price": "Â£49.05",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+        "Price": "Â£48.63",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The New Drawing on the Right Side of the Brain",
+        "Price": "Â£43.02",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Three"
+    },
+    {
+        "Title": "History of Beauty",
+        "Price": "Â£10.29",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Story of Art",
+        "Price": "Â£41.14",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Art Book",
+        "Price": "Â£32.34",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Ways of Seeing",
+        "Price": "Â£39.51",
+        "Stock": "In stock",
+        "Category": "Art",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Lucifer Effect: Understanding How Good People Turn Evil",
+        "Price": "Â£10.40",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Golden Condom: And Other Essays on Love Lost and Found",
+        "Price": "Â£39.43",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "One"
+    },
+    {
+        "Title": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+        "Price": "Â£56.27",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "Three"
+    },
+    {
+        "Title": "An Unquiet Mind: A Memoir of Moods and Madness",
+        "Price": "Â£21.30",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Thinking, Fast and Slow",
+        "Price": "Â£21.14",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "One"
+    },
+    {
+        "Title": "Civilization and Its Discontents",
+        "Price": "Â£59.95",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "Two"
+    },
+    {
+        "Title": "8 Keys to Mental Health Through Exercise",
+        "Price": "Â£31.04",
+        "Stock": "In stock",
+        "Category": "Psychology",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Argonauts",
+        "Price": "Â£10.93",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Two"
+    },
+    {
+        "Title": "M Train",
+        "Price": "Â£27.18",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "One"
+    },
+    {
+        "Title": "Lab Girl",
+        "Price": "Â£40.85",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "One"
+    },
+    {
+        "Title": "Approval Junkie: Adventures in Caring Too Much",
+        "Price": "Â£58.81",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Running with Scissors",
+        "Price": "Â£12.91",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Me Talk Pretty One Day",
+        "Price": "Â£57.60",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Lust & Wonder",
+        "Price": "Â£11.87",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Life Without a Recipe",
+        "Price": "Â£59.04",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Five"
+    },
+    {
+        "Title": "A Heartbreaking Work of Staggering Genius",
+        "Price": "Â£54.29",
+        "Stock": "In stock",
+        "Category": "Autobiography",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
+        "Price": "Â£37.35",
+        "Stock": "In stock",
+        "Category": "Parenting",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Fifty Shades Freed (Fifty Shades #3)",
+        "Price": "Â£15.36",
+        "Stock": "In stock",
+        "Category": "Adult Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Long Haul (Diary of a Wimpy Kid #9)",
+        "Price": "Â£44.07",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "One"
+    },
+    {
+        "Title": "Old School (Diary of a Wimpy Kid #10)",
+        "Price": "Â£11.83",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Five"
+    },
+    {
+        "Title": "I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction",
+        "Price": "Â£25.98",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+        "Price": "Â£14.75",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Dress Your Family in Corduroy and Denim",
+        "Price": "Â£43.68",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Toddlers Are A**holes: It's Not Your Fault",
+        "Price": "Â£25.55",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "One"
+    },
+    {
+        "Title": "When You Are Engulfed in Flames",
+        "Price": "Â£30.89",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Naked",
+        "Price": "Â£31.69",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "Price": "Â£55.50",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Holidays on Ice",
+        "Price": "Â£51.07",
+        "Stock": "In stock",
+        "Category": "Humor",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Security",
+        "Price": "Â£39.25",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Follow You Home",
+        "Price": "Â£21.36",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Loney",
+        "Price": "Â£23.40",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "One"
+    },
+    {
+        "Title": "Pet Sematary",
+        "Price": "Â£10.56",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Doctor Sleep (The Shining #2)",
+        "Price": "Â£40.12",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Psycho: Sanitarium (Psycho #1.5)",
+        "Price": "Â£36.97",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Can You Keep a Secret? (Fear Street Relaunch #4)",
+        "Price": "Â£48.64",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "One"
+    },
+    {
+        "Title": "Red Dragon (Hannibal Lecter #1)",
+        "Price": "Â£23.37",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Dracula the Un-Dead",
+        "Price": "Â£35.63",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Night Shift (Night Shift #1-20)",
+        "Price": "Â£12.75",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Needful Things",
+        "Price": "Â£47.51",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Misery",
+        "Price": "Â£34.79",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Two"
+    },
+    {
+        "Title": "It",
+        "Price": "Â£25.01",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Three"
+    },
+    {
+        "Title": "'Salem's Lot",
+        "Price": "Â£49.56",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Stand",
+        "Price": "Â£57.86",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Girl with All the Gifts",
+        "Price": "Â£49.47",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "Three"
+    },
+    {
+        "Title": "House of Leaves",
+        "Price": "Â£54.89",
+        "Stock": "In stock",
+        "Category": "Horror",
+        "Rating": "One"
+    },
+    {
+        "Title": "Sapiens: A Brief History of Humankind",
+        "Price": "Â£54.23",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "Price": "Â£25.52",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "Price": "Â£19.73",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "One"
+    },
+    {
+        "Title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "Price": "Â£36.28",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+        "Price": "Â£59.64",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "One"
+    },
+    {
+        "Title": "Zealot: The Life and Times of Jesus of Nazareth",
+        "Price": "Â£24.70",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Three"
+    },
+    {
+        "Title": "A Distant Mirror: The Calamitous 14th Century",
+        "Price": "Â£14.58",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Three"
+    },
+    {
+        "Title": "1491: New Revelations of the Americas Before Columbus",
+        "Price": "Â£21.80",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Brilliant Beacons: A History of the American Lighthouse",
+        "Price": "Â£11.45",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Three"
+    },
+    {
+        "Title": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+        "Price": "Â£44.48",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Five"
+    },
+    {
+        "Title": "A Short History of Nearly Everything",
+        "Price": "Â£52.40",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+        "Price": "Â£39.67",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Catherine the Great: Portrait of a Woman",
+        "Price": "Â£58.55",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+        "Price": "Â£42.91",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Hiding Place",
+        "Price": "Â£55.91",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Four"
+    },
+    {
+        "Title": "America's War for the Greater Middle East: A Military History",
+        "Price": "Â£51.22",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Guns of August",
+        "Price": "Â£14.54",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Two"
+    },
+    {
+        "Title": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+        "Price": "Â£43.70",
+        "Stock": "In stock",
+        "Category": "History",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "Price": "Â£30.52",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "Price": "Â£56.41",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "One"
+    },
+    {
+        "Title": "My Paris Kitchen: Recipes and Stories",
+        "Price": "Â£33.37",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "Price": "Â£14.02",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "Price": "Â£40.11",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us",
+        "Price": "Â£37.34",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+        "Price": "Â£37.60",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First",
+        "Price": "Â£41.25",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "One"
+    },
+    {
+        "Title": "Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",
+        "Price": "Â£42.16",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+        "Price": "Â£28.77",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Three"
+    },
+    {
+        "Title": "It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",
+        "Price": "Â£19.55",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "One"
+    },
+    {
+        "Title": "Barefoot Contessa Back to Basics",
+        "Price": "Â£28.01",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "One"
+    },
+    {
+        "Title": "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again",
+        "Price": "Â£50.62",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Five"
+    },
+    {
+        "Title": "My Kitchen Year: 136 Recipes That Saved My Life",
+        "Price": "Â£11.53",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Everyday Italian: 125 Simple and Delicious Recipes",
+        "Price": "Â£20.10",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Five"
+    },
+    {
+        "Title": "A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",
+        "Price": "Â£38.77",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "One"
+    },
+    {
+        "Title": "Cravings: Recipes for What You Want to Eat",
+        "Price": "Â£20.50",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",
+        "Price": "Â£12.34",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Four"
+    },
+    {
+        "Title": "32 Yolks",
+        "Price": "Â£53.63",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",
+        "Price": "Â£11.38",
+        "Stock": "In stock",
+        "Category": "Food and Drink",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Redeeming Love",
+        "Price": "Â£20.47",
+        "Stock": "In stock",
+        "Category": "Christian Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Close to You",
+        "Price": "Â£49.46",
+        "Stock": "In stock",
+        "Category": "Christian Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Shadows of the Past (Logan Point #1)",
+        "Price": "Â£39.67",
+        "Stock": "In stock",
+        "Category": "Christian Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Like Never Before (Walker Family #2)",
+        "Price": "Â£28.77",
+        "Stock": "In stock",
+        "Category": "Christian Fiction",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Counted With the Stars (Out from Egypt #1)",
+        "Price": "Â£17.97",
+        "Stock": "In stock",
+        "Category": "Christian Fiction",
+        "Rating": "Five"
+    },
+    {
+        "Title": "If I Run (If I Run #1)",
+        "Price": "Â£49.97",
+        "Stock": "In stock",
+        "Category": "Christian Fiction",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "Price": "Â£33.34",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Third Wave: An Entrepreneurâs Vision of the Future",
+        "Price": "Â£12.61",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+        "Price": "Â£27.55",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Shoe Dog: A Memoir by the Creator of NIKE",
+        "Price": "Â£23.99",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Made to Stick: Why Some Ideas Survive and Others Die",
+        "Price": "Â£38.85",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two",
+        "Price": "Â£43.14",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Art of Startup Fundraising",
+        "Price": "Â£21.00",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Born for This: How to Find the Work You Were Meant to Do",
+        "Price": "Â£21.59",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+        "Price": "Â£36.91",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "One"
+    },
+    {
+        "Title": "Rich Dad, Poor Dad",
+        "Price": "Â£51.74",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Price": "Â£33.92",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Rework",
+        "Price": "Â£44.88",
+        "Stock": "In stock",
+        "Category": "Business",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Louisa: The Extraordinary Life of Mrs. Adams",
+        "Price": "Â£16.85",
+        "Stock": "In stock",
+        "Category": "Biography",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+        "Price": "Â£21.15",
+        "Stock": "In stock",
+        "Category": "Biography",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+        "Price": "Â£39.55",
+        "Stock": "In stock",
+        "Category": "Biography",
+        "Rating": "One"
+    },
+    {
+        "Title": "Benjamin Franklin: An American Life",
+        "Price": "Â£48.19",
+        "Stock": "In stock",
+        "Category": "Biography",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Rise of Theodore Roosevelt (Theodore Roosevelt #1)",
+        "Price": "Â£42.57",
+        "Stock": "In stock",
+        "Category": "Biography",
+        "Rating": "Three"
+    },
+    {
+        "Title": "In Her Wake",
+        "Price": "Â£12.84",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Elephant Tree",
+        "Price": "Â£23.82",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Behind Closed Doors",
+        "Price": "Â£52.22",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Four"
+    },
+    {
+        "Title": "You (You #1)",
+        "Price": "Â£43.61",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Guilty (Will Robie #4)",
+        "Price": "Â£13.82",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The 14th Colony (Cotton Malone #11)",
+        "Price": "Â£39.24",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "One"
+    },
+    {
+        "Title": "Give It Back",
+        "Price": "Â£18.32",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Killing Floor (Jack Reacher #1)",
+        "Price": "Â£31.49",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Four"
+    },
+    {
+        "Title": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+        "Price": "Â£59.71",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Far From True (Promise Falls Trilogy #2)",
+        "Price": "Â£34.93",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "Two"
+    },
+    {
+        "Title": "The Travelers",
+        "Price": "Â£15.77",
+        "Stock": "In stock",
+        "Category": "Thriller",
+        "Rating": "One"
+    },
+    {
+        "Title": "When We Collided",
+        "Price": "Â£31.77",
+        "Stock": "In stock",
+        "Category": "Contemporary",
+        "Rating": "One"
+    },
+    {
+        "Title": "Someone Like You (The Harrisons #2)",
+        "Price": "Â£52.79",
+        "Stock": "In stock",
+        "Category": "Contemporary",
+        "Rating": "Five"
+    },
+    {
+        "Title": "We Are All Completely Beside Ourselves",
+        "Price": "Â£24.04",
+        "Stock": "In stock",
+        "Category": "Contemporary",
+        "Rating": "One"
+    },
+    {
+        "Title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "Price": "Â£17.66",
+        "Stock": "In stock",
+        "Category": "Spirituality",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "Price": "Â£32.24",
+        "Stock": "In stock",
+        "Category": "Spirituality",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Chasing Heaven: What Dying Taught Me About Living",
+        "Price": "Â£37.80",
+        "Stock": "In stock",
+        "Category": "Spirituality",
+        "Rating": "Two"
+    },
+    {
+        "Title": "If I Gave You God's Phone Number....: Searching for Spirituality in America",
+        "Price": "Â£20.91",
+        "Stock": "In stock",
+        "Category": "Spirituality",
+        "Rating": "One"
+    },
+    {
+        "Title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+        "Price": "Â£46.33",
+        "Stock": "In stock",
+        "Category": "Spirituality",
+        "Rating": "Two"
+    },
+    {
+        "Title": "A New Earth: Awakening to Your Life's Purpose",
+        "Price": "Â£55.65",
+        "Stock": "In stock",
+        "Category": "Spirituality",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Logan Kade (Fallen Crest High #5.5)",
+        "Price": "Â£13.12",
+        "Stock": "In stock",
+        "Category": "Academic",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "Price": "Â£46.35",
+        "Stock": "In stock",
+        "Category": "Self Help",
+        "Rating": "One"
+    },
+    {
+        "Title": "How to Be Miserable: 40 Strategies You Already Use",
+        "Price": "Â£46.03",
+        "Stock": "In stock",
+        "Category": "Self Help",
+        "Rating": "One"
+    },
+    {
+        "Title": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+        "Price": "Â£52.15",
+        "Stock": "In stock",
+        "Category": "Self Help",
+        "Rating": "Three"
+    },
+    {
+        "Title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "Price": "Â£12.08",
+        "Stock": "In stock",
+        "Category": "Self Help",
+        "Rating": "Three"
+    },
+    {
+        "Title": "How to Stop Worrying and Start Living",
+        "Price": "Â£46.49",
+        "Stock": "In stock",
+        "Category": "Self Help",
+        "Rating": "Five"
+    },
+    {
+        "Title": "All the Light We Cannot See",
+        "Price": "Â£29.87",
+        "Stock": "In stock",
+        "Category": "Historical",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Girl You Left Behind (The Girl You Left Behind #1)",
+        "Price": "Â£15.79",
+        "Stock": "In stock",
+        "Category": "Historical",
+        "Rating": "One"
+    },
+    {
+        "Title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+        "Price": "Â£54.00",
+        "Stock": "In stock",
+        "Category": "Christian",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Crazy Love: Overwhelmed by a Relentless God",
+        "Price": "Â£47.72",
+        "Stock": "In stock",
+        "Category": "Christian",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+        "Price": "Â£25.77",
+        "Stock": "In stock",
+        "Category": "Christian",
+        "Rating": "One"
+    },
+    {
+        "Title": "Silence in the Dark (Logan Point #4)",
+        "Price": "Â£58.33",
+        "Stock": "In stock",
+        "Category": "Suspense",
+        "Rating": "Three"
+    },
+    {
+        "Title": "The Grownup",
+        "Price": "Â£35.88",
+        "Stock": "In stock",
+        "Category": "Short Stories",
+        "Rating": "One"
+    },
+    {
+        "Title": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
+        "Price": "Â£54.81",
+        "Stock": "In stock",
+        "Category": "Novels",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "Price": "Â£49.05",
+        "Stock": "In stock",
+        "Category": "Health",
+        "Rating": "Three"
+    },
+    {
+        "Title": "Eat Fat, Get Thin",
+        "Price": "Â£54.07",
+        "Stock": "In stock",
+        "Category": "Health",
+        "Rating": "Two"
+    },
+    {
+        "Title": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+        "Price": "Â£49.71",
+        "Stock": "In stock",
+        "Category": "Health",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Art and Science of Low Carbohydrate Living",
+        "Price": "Â£52.98",
+        "Stock": "In stock",
+        "Category": "Health",
+        "Rating": "Five"
+    },
+    {
+        "Title": "Libertarianism for Beginners",
+        "Price": "Â£51.33",
+        "Stock": "In stock",
+        "Category": "Politics",
+        "Rating": "Two"
+    },
+    {
+        "Title": "Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond",
+        "Price": "Â£52.65",
+        "Stock": "In stock",
+        "Category": "Politics",
+        "Rating": "Four"
+    },
+    {
+        "Title": "Equal Is Unfair: America's Misguided Fight Against Income Inequality",
+        "Price": "Â£56.86",
+        "Stock": "In stock",
+        "Category": "Politics",
+        "Rating": "One"
+    },
+    {
+        "Title": "Amid the Chaos",
+        "Price": "Â£36.58",
+        "Stock": "In stock",
+        "Category": "Cultural",
+        "Rating": "One"
+    },
+    {
+        "Title": "Dark Notes",
+        "Price": "Â£19.19",
+        "Stock": "In stock",
+        "Category": "Erotica",
+        "Rating": "Five"
+    },
+    {
+        "Title": "The Long Shadow of Small Ghosts: Murder and Memory in an American City",
+        "Price": "Â£10.97",
+        "Stock": "In stock",
+        "Category": "Crime",
+        "Rating": "One"
+    }
+]
