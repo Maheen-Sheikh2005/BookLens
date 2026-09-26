@@ -77,31 +77,7 @@ JOIN Dim_Rating r ON b.rating_id = r.rating_id;
 -- ------------------------------------------------------------
 -- Query 1: Category Revenue Potential & Price Extreme Mapping
 -- ------------------------------------------------------------
-WITH RankedBooks AS (
-    SELECT 
-        b.book_id,
-        b.title,
-        b.price_gbp,
-        c.category_name,
-        ROW_NUMBER() OVER(PARTITION BY c.category_id ORDER BY b.price_gbp DESC) AS desc_rank,
-        ROW_NUMBER() OVER(PARTITION BY c.category_id ORDER BY b.price_gbp ASC) AS asc_rank
-    FROM Fact_Books b
-    JOIN Dim_Category c ON b.category_id = c.category_id
-)
-SELECT 
-    category_name,
-    COUNT(book_id) AS total_books,
-    SUM(price_gbp) AS total_inventory_value,
-    ROUND(AVG(price_gbp), 2) AS average_price,
-    MAX(CASE WHEN desc_rank = 1 THEN title END) AS most_expensive_book,
-    MAX(CASE WHEN desc_rank = 1 THEN price_gbp END) AS max_price,
-    MAX(CASE WHEN asc_rank = 1 THEN title END) AS cheapest_book,
-    MIN(CASE WHEN asc_rank = 1 THEN price_gbp END) AS min_price
-FROM RankedBooks
-GROUP BY category_name
-HAVING COUNT(book_id) >= 3
-ORDER BY total_inventory_value DESC;
--- ------------------------------------------------------------
+
 WITH RankedBooks AS (
     SELECT 
         b.book_id,
